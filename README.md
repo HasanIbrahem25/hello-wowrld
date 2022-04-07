@@ -1,2 +1,2 @@
 # hello-wowrld
-this is a demo for learning 
+this is somr information about me 
